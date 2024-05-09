@@ -1,2 +1,2 @@
 # hr_analyst_kpi
-##some kpis for hr analyst project 
+analysis of HR dataset using 6 main KPIs 
